@@ -23,3 +23,7 @@ console.log(age);
 // pi = 10;
 
 // console.log(pi); this will throw an error :)
+
+//you can do math
+
+console.log((3 + 2) - 76 * (1 + 1));
