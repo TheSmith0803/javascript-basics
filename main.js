@@ -16,3 +16,10 @@ console.log(age);
 age = 54;
 
 console.log(age);
+
+//ressainging constatnts will throw an error 
+
+// const pi = 3.14;
+// pi = 10;
+
+// console.log(pi); this will throw an error :)
