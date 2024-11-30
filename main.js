@@ -25,6 +25,7 @@ console.log(age);
 // console.log(pi); this will throw an error :)
 
 //you can do math
+console.log("Math??");
 
 console.log((3 + 2) - 76 * (1 + 1));
 
@@ -43,3 +44,9 @@ let a = 10
 console.log(a);
 
 console.log( 9 * a);
+
+//more stuff
+
+const max = 57;
+let actual = max -13;
+let percent = actual / max
