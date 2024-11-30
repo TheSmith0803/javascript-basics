@@ -27,3 +27,19 @@ console.log(age);
 //you can do math
 
 console.log((3 + 2) - 76 * (1 + 1));
+
+console.log("Actual assignment!");
+
+console.log(23 + 97);
+
+let answer = (4+6+9)/77
+
+console.log(answer);
+
+// variables
+
+let a = 10
+
+console.log(a);
+
+console.log( 9 * a);
